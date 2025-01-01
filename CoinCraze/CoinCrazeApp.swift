@@ -11,7 +11,7 @@ import SwiftUI
 struct CoinCrazeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TileMatchingGameView()
         }
     }
 }
